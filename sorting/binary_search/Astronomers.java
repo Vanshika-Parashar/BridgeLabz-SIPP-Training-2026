@@ -1,4 +1,4 @@
-package binarysearch;
+package sorting.binary_search;
 
 import java.util.*;
 
